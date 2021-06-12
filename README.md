@@ -14,10 +14,10 @@ I have built, and more importantly, helped others build Enterprise level data ce
 
 
 # Currently working with:
-Apache Spark
-Scala
-Google Cloud Platform 
-Amazon Sagemaker
+Apache Spark |
+Scala |
+Google Cloud Platform | 
+Amazon Sagemaker 
 
 
 # In my Free Time
