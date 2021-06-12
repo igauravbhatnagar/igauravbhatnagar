@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/igauravbhatnagar/igauravbhatnagar/blob/ab85ed44623bedb1ad61531a2f9c84ceec8179ab/GithubBG.png)(your GitHub link)
+![MasterHead](https://github.com/igauravbhatnagar/igauravbhatnagar/blob/ab85ed44623bedb1ad61531a2f9c84ceec8179ab/GithubBG.png)(https://github.com/igauravbhatnagar)
 
 
 ## Hi there 👋
