@@ -13,4 +13,15 @@ I have built, and more importantly, helped others build Enterprise level data ce
 - ⚡ Fun fact: I❤️🐶s and dream of them.  
 
 
-#Currently working with:
+# Currently working with:
+Apache Spark
+Scala
+Google Cloud Platform 
+Amazon Sagemaker
+
+
+# In my Free Time
+🏏 Unreal Engine VR game making 
+💻 Making websites using <a href="https://shoelace.style/">Shoelace Style</a>
+⌚ Amazon Gear Watchfaces
+👨‍🦱 NLP libraries
