@@ -1,16 +1,16 @@
+
 ### Hi there 👋
 
-<!--
-**igauravbhatnagar/igauravbhatnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="">
 
-Here are some ideas to get you started:
+I am Gaurav Bhatnagar. A programmer and a data engineer by profession for over 11 years. 
+I have built, and more importantly, helped others build Enterprise level data centric application programs over the past decade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Enterprise level data consumption patterns
+- 🌱 I’m currently learning workflow automation strategies using cloud technologies 
+- 👯 I’m looking to collaborate on Virtual Reality Game making using Unreal Engine
+- 💬 Ask me about how big banks have used data to get better
+- 📫 How to reach me: Linked in
+- ⚡ Fun fact: I❤️🐶s and dream of them.  
+
+
