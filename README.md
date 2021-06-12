@@ -17,7 +17,9 @@ I have built, and more importantly, helped others build Enterprise level data ce
 Apache Spark |
 Scala |
 Google Cloud Platform | 
-Amazon Sagemaker 
+Amazon Sagemaker |
+Feature building and enhancement |
+Data Analysis
 
 
 # In my Free Time
