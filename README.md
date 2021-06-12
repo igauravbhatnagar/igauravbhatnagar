@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<img src="">
+<img src="https://github.com/igauravbhatnagar/igauravbhatnagar/blob/ab85ed44623bedb1ad61531a2f9c84ceec8179ab/GithubBG.png">
 
 I am Gaurav Bhatnagar. A programmer and a data engineer by profession for over 11 years. 
 I have built, and more importantly, helped others build Enterprise level data centric application programs over the past decade.
