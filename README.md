@@ -2,7 +2,7 @@
 
 
 ## Hi there 👋
-I am Gaurav Bhatnagar. A programmer and a data engineer by profession for over 11 years. 
+I am Gaurav Bhatnagar. A programmer and a data engineer by profession for over 13 years. 
 I have built, and more importantly, helped others build Enterprise level data centric application programs over the past decade.
 
 - 🔭 I’m currently working on Enterprise level data consumption patterns
@@ -23,7 +23,7 @@ Data Analysis
 
 
 # In my Free Time
-🏏 Unreal Engine VR game making 
+🏏 VR game making for Quest 2 
 💻 Making websites using <a href="https://shoelace.style/">Shoelace Style</a>
 ⌚ Amazon Gear Watchfaces
 👨‍🦱 NLP libraries
