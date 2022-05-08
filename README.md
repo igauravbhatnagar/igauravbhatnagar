@@ -13,13 +13,25 @@ I have built, and more importantly, helped others build Enterprise level data ce
 - 📫 How to reach me: Linked in
 - ⚡ Fun fact: I❤️🐶s and dream of them.  
 
-Certifications:
+# Certifications:
 
-![GCPACE](https://user-images.githubusercontent.com/31373150/167313713-a8e5838c-6770-4c76-83ca-0a2e494aede6.png)
-![GCPPDE](https://user-images.githubusercontent.com/31373150/167313720-72e6ae13-cec0-47d1-b8fd-c48f0975a518.png)
-![azure-ai-fundamentals-85x85](https://user-images.githubusercontent.com/31373150/167313759-e873e21d-4ede-413f-887f-bac9a87a8d69.png)
-![azure-data-fundamentals-85x85](https://user-images.githubusercontent.com/31373150/167313764-8be948e4-385d-403e-8d7b-dea10c03a8ff.png)
-![azure-fundamentals-600x600](https://user-images.githubusercontent.com/31373150/167313777-8915baad-cf69-4c8b-9207-056e6f2b71fe.png)
+<img src="https://user-images.githubusercontent.com/31373150/167313713-a8e5838c-6770-4c76-83ca-0a2e494aede6.png" width=85 align=left>
+<img src="https://user-images.githubusercontent.com/31373150/167313720-72e6ae13-cec0-47d1-b8fd-c48f0975a518.png" width=85 align=left>
+<img src="https://user-images.githubusercontent.com/31373150/167313759-e873e21d-4ede-413f-887f-bac9a87a8d69.png" width=85 align=left>
+<img src="https://user-images.githubusercontent.com/31373150/167313764-8be948e4-385d-403e-8d7b-dea10c03a8ff.png" width=85 align=left>
+<img src="https://user-images.githubusercontent.com/31373150/167314333-472890d9-7048-4eb2-aaec-8d229bc821df.png" width=85 align=left>
+<img src="https://user-images.githubusercontent.com/31373150/167314401-91c97792-92b0-4080-b5c7-d3c71419a778.png" width=85 align=left>
+<img src="https://user-images.githubusercontent.com/31373150/167314452-b25965f3-c1cb-4ecb-916f-6076ecc36ec5.png" width=85 align=left>
+
+
+
+
+
+<pre>
+
+
+<br/>
+</pre>
 
 # Currently working with:
 Apache Spark |
