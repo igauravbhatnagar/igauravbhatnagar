@@ -10,7 +10,7 @@ I have built, and more importantly, helped others build Enterprise level data ce
 - 🌱 I’m currently learning workflow automation strategies using cloud technologies 
 - 👯 I’m looking to collaborate on Virtual Reality Game making using Unreal Engine
 - 💬 Ask me about how big banks have used data to get better
-- 📫 How to reach me: Linked in
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/igauravbhatnagar"> Linked-in </a>
 - ⚡ Fun fact: I❤️🐶s and dream of them.  
 
 # Certifications:
