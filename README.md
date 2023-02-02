@@ -15,16 +15,14 @@ I have built, and more importantly, helped others build Enterprise level data ce
 
 # Certifications:
 
-<a href=# title=""><img src="https://user-images.githubusercontent.com/31373150/167313713-a8e5838c-6770-4c76-83ca-0a2e494aede6.png" width=85 align=left></a>
-<a href=# title=""><img src="https://user-images.githubusercontent.com/31373150/167313720-72e6ae13-cec0-47d1-b8fd-c48f0975a518.png" width=85 align=left></a>
-<a href=# title=""><img src="https://user-images.githubusercontent.com/31373150/167313759-e873e21d-4ede-413f-887f-bac9a87a8d69.png" width=85 align=left></a>
-<a href=# title=""><img src="https://user-images.githubusercontent.com/31373150/167313764-8be948e4-385d-403e-8d7b-dea10c03a8ff.png" width=85 align=left></a>
-<a href=# title=""><img src="https://user-images.githubusercontent.com/31373150/167314333-472890d9-7048-4eb2-aaec-8d229bc821df.png" width=85 align=left></a>
-<a href=# title=""><img src="https://user-images.githubusercontent.com/31373150/167314401-91c97792-92b0-4080-b5c7-d3c71419a778.png" width=85 align=left></a>
-<a href=# title=""><img src="https://user-images.githubusercontent.com/31373150/167314452-b25965f3-c1cb-4ecb-916f-6076ecc36ec5.png" width=85 align=left></a>
-<a href=# title=""><img src="https://user-images.githubusercontent.com/31373150/216391914-dbaa01aa-6cee-4a6f-a875-8f9aa2b673f8.png" width=85 align=left></a>
-
-
+<a href=# title="Google Cloud Professional Cloud Architect"><img src="https://user-images.githubusercontent.com/31373150/216391914-dbaa01aa-6cee-4a6f-a875-8f9aa2b673f8.png" width=85 align=left></a>
+<a href=# title="Google Cloud Professional Data Engineer"><img src="https://user-images.githubusercontent.com/31373150/167313720-72e6ae13-cec0-47d1-b8fd-c48f0975a518.png" width=85 align=left></a>
+<a href=# title="Google Cloud Associate Cloud Engineer"><img src="https://user-images.githubusercontent.com/31373150/167313713-a8e5838c-6770-4c76-83ca-0a2e494aede6.png" width=85 align=left></a>
+<a href=# title="Certified SAFe Agilist 5.0"><img src="https://user-images.githubusercontent.com/31373150/167314452-b25965f3-c1cb-4ecb-916f-6076ecc36ec5.png" width=85 align=left></a>
+<a href=# title="Azure AI Fundamentals"><img src="https://user-images.githubusercontent.com/31373150/167313759-e873e21d-4ede-413f-887f-bac9a87a8d69.png" width=85 align=left></a>
+<a href=# title="Azure Data Fundamentals"><img src="https://user-images.githubusercontent.com/31373150/167313764-8be948e4-385d-403e-8d7b-dea10c03a8ff.png" width=85 align=left></a>
+<a href=# title="ISTQB Certified Tester"><img src="https://user-images.githubusercontent.com/31373150/167314333-472890d9-7048-4eb2-aaec-8d229bc821df.png" width=85 align=left></a>
+<a href=# title="Certified Scrum Master"><img src="https://user-images.githubusercontent.com/31373150/167314401-91c97792-92b0-4080-b5c7-d3c71419a778.png" width=85 align=left></a>
 
 
 
