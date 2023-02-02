@@ -19,6 +19,8 @@ I have built, and more importantly, helped others build Enterprise level data ce
 <a href="https://www.credential.net/128bf43f-3cfc-4e9d-ba1b-6e2873442c86" title="Google Cloud Professional Data Engineer"><img src="https://user-images.githubusercontent.com/31373150/167313720-72e6ae13-cec0-47d1-b8fd-c48f0975a518.png" width=85 align=left></a>
 <a href="https://www.credential.net/7a28689b-d4f2-4794-a455-6013ac234397" title="Google Cloud Associate Cloud Engineer"><img src="https://user-images.githubusercontent.com/31373150/167313713-a8e5838c-6770-4c76-83ca-0a2e494aede6.png" width=85 align=left></a>
 <a href="https://www.credly.com/badges/23d05fe1-b3f1-40ba-b71e-f4df7794aafa/public_url" title="Certified SAFe Agilist 5.0"><img src="https://user-images.githubusercontent.com/31373150/167314452-b25965f3-c1cb-4ecb-916f-6076ecc36ec5.png" width=85 align=left></a>
+
+<a href="https://www.credly.com/badges/4cd85514-f0fa-4a64-a22c-cff01ddda816/public_url" title="Azure Fundamentals"><img src="https://www.credly.com/badges/d812651c-2767-48d1-9c28-b910cd5c5f83" width=85 align=left></a>
 <a href="https://www.credly.com/badges/4cd85514-f0fa-4a64-a22c-cff01ddda816/public_url" title="Azure AI Fundamentals"><img src="https://user-images.githubusercontent.com/31373150/167313759-e873e21d-4ede-413f-887f-bac9a87a8d69.png" width=85 align=left></a>
 <a href="https://www.credly.com/badges/a163ca2a-0c01-4b49-8d9c-900324cfedbc/public_url" title="Azure Data Fundamentals"><img src="https://user-images.githubusercontent.com/31373150/167313764-8be948e4-385d-403e-8d7b-dea10c03a8ff.png" width=85 align=left></a>
 <a href=# title="ISTQB Certified Tester"><img src="https://user-images.githubusercontent.com/31373150/167314333-472890d9-7048-4eb2-aaec-8d229bc821df.png" width=85 align=left></a>
